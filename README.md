@@ -108,4 +108,4 @@ customer-churn-prediction/
 
 ## 👤 Author
 
-Your Name - [LinkedIn](https://www.linkedin.com/in/ananthakrishnan-j/) - [GitHub](https://github.com/Ananthakrishnan-Jayadev) 
+Ananthakrishnan Jayadev - [LinkedIn](https://www.linkedin.com/in/ananthakrishnan-j/) - [GitHub](https://github.com/Ananthakrishnan-Jayadev) 
